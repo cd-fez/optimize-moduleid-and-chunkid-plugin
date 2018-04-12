@@ -1,0 +1,24 @@
+{
+  "name": "optimize-moduleid-and-chunkid-plugin",
+  "version": "1.1.0",
+  "description": "Make module id and chunk id fixed and changeless when add or remove modules",
+  "main": "lib/optimizeModuleIdAndChunkIdPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "codeages"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd-fez/optimize-moduleid-and-chunkid-plugin.git"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "webpack",
+    "moduleid",
+    "chunkid"
+  ]
+}
